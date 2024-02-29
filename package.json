@@ -26,6 +26,7 @@
     "is-number": "^7.0.0",
     "lru-cache": "^6.0.0",
     "minimatch": "^3.1.2",
+    "mongoose": "^8.2.0",
     "ms": "^2.1.2",
     "nodemon": "^3.1.0",
     "nopt": "^1.0.10",
